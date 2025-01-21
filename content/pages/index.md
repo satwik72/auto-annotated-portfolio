@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I’m a photographer, videographer, and storyteller passionate about
       capturing moments and creating cinematic experiences.
