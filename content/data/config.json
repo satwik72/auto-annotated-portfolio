@@ -4,8 +4,8 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Personal",
+        "isSticky": true,
+        "title": "Satwik Devarakonda",
         "isTitleVisible": true,
         "primaryLinks": [
             {
