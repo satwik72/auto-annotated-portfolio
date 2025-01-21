@@ -12,7 +12,7 @@
     "onComplementary": "#FBFFF2",
     "fontBody": "fontPrimary",
     "h1": {
-        "size": "base",
+        "size": "lg",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
