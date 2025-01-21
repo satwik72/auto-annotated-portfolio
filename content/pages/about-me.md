@@ -35,6 +35,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:
