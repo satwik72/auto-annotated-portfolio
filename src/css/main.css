@@ -1,4 +1,4 @@
-@import url('<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -6,7 +6,7 @@
 
 @layer base {
     body {
-        @apply flex flex-col min-h-screen antialiased;
+        @apply flex flex-col min-h-screen antialiased font-rubik;
     }
     body > div,
     .sb-page,
@@ -304,70 +304,5 @@
             @apply bg-light;
         }
     }
-    .colors-c {
-        @apply bg-primary text-on-primary;
-        .sb-input,
-        .sb-select,
-        .sb-textarea {
-            @apply placeholder-opacity-75 text-on-primary placeholder-on-primary;
-        }
-        .sb-component-link-fill:before,
-        .sb-component-social-fill:before,
-        .sb-header-logo:before {
-            @apply bg-on-primary;
-        }
-        .sb-component-link-fill:hover,
-        .sb-component-social-fill:hover,
-        .sb-header-logo:hover {
-            @apply text-primary;
-        }
-        .sb-header-overlay {
-            @apply bg-primary;
-        }
-    }
-    .colors-d {
-        @apply bg-secondary text-on-secondary;
-        .sb-input,
-        .sb-select,
-        .sb-textarea {
-            @apply placeholder-opacity-75 text-on-secondary placeholder-on-secondary;
-        }
-        .sb-component-link-fill:before,
-        .sb-component-social-fill:before,
-        .sb-header-logo:before {
-            @apply bg-on-secondary;
-        }
-        .sb-component-link-fill:hover,
-        .sb-component-social-fill:hover,
-        .sb-header-logo:hover {
-            @apply text-secondary;
-        }
-        .sb-header-overlay {
-            @apply bg-secondary;
-        }
-    }
-    .colors-e {
-        @apply bg-complementary text-on-complementary;
-        .sb-input,
-        .sb-select,
-        .sb-textarea {
-            @apply placeholder-opacity-75 text-on-complementary placeholder-on-complementary;
-        }
-        .sb-component-link-fill:before,
-        .sb-component-social-fill:before,
-        .sb-header-logo:before {
-            @apply bg-on-complementary;
-        }
-        .sb-component-link-fill:hover,
-        .sb-component-social-fill:hover,
-        .sb-header-logo:hover {
-            @apply text-complementary;
-        }
-        .sb-header-overlay {
-            @apply bg-complementary;
-        }
-    }
-    .colors-f {
-        @apply bg-transparent;
-    }
 }
+
