@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/featured-Image3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a photographer, videographer, and storyteller passionate about
+      capturing moments and creating cinematic experiences.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Here’s a glimpse into my creative journey—built with hard work,
+      creativity, and a love for capturing beautiful moments. As you scroll,
+      you’ll find my portfolio, experiences, and the variety of work I’ve done
+      to bring my vision to life
     styles:
       self:
         height: auto
@@ -38,7 +39,8 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
