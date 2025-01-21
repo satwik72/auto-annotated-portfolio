@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_7829-Enhanced-NR.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
