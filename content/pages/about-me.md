@@ -11,11 +11,8 @@ sections:
       creativity, and a love for capturing beautiful moments. As you scroll,
       you’ll find my portfolio, experiences, and the variety of work I’ve done
       to bring my vision to life
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |2
+       
     actions: []
     media:
       type: ImageBlock
