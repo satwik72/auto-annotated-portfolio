@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a photographer, videographer, and storyteller passionate about
+      capturing moments and creating cinematic experiences.
     subtitle: >-
       Here’s a glimpse into my creative journey—built with hard work,
       creativity, and a love for capturing beautiful moments. As you scroll,
